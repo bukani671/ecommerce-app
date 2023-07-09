@@ -108,7 +108,7 @@ const CartMenu = () => {
                         </IconButton>
                       </Box>
                       <Typography fontWeight="bold">
-                        ${item.attributes.price}
+                        R{item.attributes.price}
                       </Typography>
                     </FlexBox>
                   </Box>
